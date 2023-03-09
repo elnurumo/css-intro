@@ -69,7 +69,7 @@
 
 .italic_white {
     color: white;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .movie_about {
@@ -86,4 +86,8 @@
 
 img {
     width: 300px;
+}
+
+.italic {
+    font-family: 'Amaranth', sans-serif;
 }
