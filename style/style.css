@@ -1,0 +1,89 @@
+.head_1 {
+    color: brown;
+}
+
+.head_2 {
+    background-color: bisque;
+}
+
+.head_3 {
+    border-left: 2px solid hotpink;
+}
+
+.green_p {
+    color: green;
+}
+
+.border_bot_red {
+    border-bottom: 2px solid red;
+}
+
+.border_dashed {
+    border: 1.5px dashed;
+}
+
+.bg_blue {
+    background-color: blue;
+    border: 1px solid;
+}
+
+.font_big {
+    font-size: 25px;
+}
+
+.green_button {
+    background-color: green;
+    color: white;
+    border-radius: 8px;
+    border: 1px solid black;
+    padding: 10px 25px;
+}
+
+.bg_victoria_color {
+    background-color: #595647;
+}
+
+.about_name {
+    color: #A3C4E7;
+    font-family: 'Overpass', sans-serif;
+}
+
+.victora_about_short {
+    color: white;
+    border-bottom: 1.5px solid white;
+    padding: 15px 0;
+}
+
+.victora_about_short span {
+    color: yellow;
+}
+
+.heading_4 {
+    color: #A3C4E7;
+    font-family: 'Overpass', sans-serif;
+}
+
+.class_about {
+    color: white;
+}
+
+.italic_white {
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.movie_about {
+    color: white;
+}
+
+.movie_about a {
+    color: red;
+}
+
+.img_span {
+    color: white;
+}
+
+img {
+    width: 300px;
+}
